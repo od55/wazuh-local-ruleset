@@ -1,4 +1,4 @@
-<!-- suricata F6 proprietary -->
+<!-- suricata as part of F6 NTA system -->
 <decoder name="nta">
     <program_name>nta</program_name>
     <type>syslog</type>
