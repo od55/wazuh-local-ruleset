@@ -1,5 +1,5 @@
 <!-- 
-decoder for BIND Named
+decoder for BIND Named.not all event types are decoded
 :::::::: event example ::::::::
 2026-01-24T02:22:07+03:00 ns-server named[561081]: client @0x718220e4dc98 172.217.34.23#48343 (domain.Ru): query (cache) 'domain.Ru/A/IN' denied (allow-query-cache did not match)
 2026-01-22T17:10:53+03:00 ns-server named[561081]: zone domain.ru/IN: refresh: unexpected rcode (REFUSED) from primary 194.177.23.220#53 (source 0.0.0.0#0)
